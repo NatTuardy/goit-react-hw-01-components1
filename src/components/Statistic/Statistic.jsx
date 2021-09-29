@@ -1,5 +1,5 @@
 import PropTypes, { string } from "prop-types";
-import style from "./Statistic.module.css";
+import style from "./Statistic.module.scss";
 
 const randomColor = () => Math.floor(Math.random() * 255);
 const colorRandom = () =>

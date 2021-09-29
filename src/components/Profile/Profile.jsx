@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import style from "./Profile.module.css";
+import style from "./Profile.module.scss";
 
 const Profile = ({ name, tag, location, avatar, stats }) => {
   const { followers, views, likes } = stats;

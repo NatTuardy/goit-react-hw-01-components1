@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 import TableBody from "./TableBody/TableBody";
-import style from './TransitionHistory.module.css'
+import style from './TransitionHistory.module.scss'
 
 const TransactionHistory = ({ items }) => {
   return (
