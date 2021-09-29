@@ -1,0 +1,18 @@
+.transactionHistory {
+    margin: 20px auto;
+    font-family: Montserrat, sans-serif;
+    width: 600px;
+}
+
+.transactionHistory>thead {
+    background-color: #77dcee;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+
+tbody tr:nth-child(even) {
+    background-color: #c9eaf0;
+}
